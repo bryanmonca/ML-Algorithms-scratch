@@ -1,4 +1,4 @@
-# cmsi535-Machine-Learning
+# ML-Algorithms-scratch
 In these in class exercises and assignments we built different machine learning algorithms from scratch and compare results with scikit-learn’s implementation:
 
 * Exercise3 - Building Perceptron model
